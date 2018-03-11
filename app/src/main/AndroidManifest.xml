@@ -17,7 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LockScreenActivity"/>
+        <activity android:name=".LockScreenActivity" android:theme="@style/ScreenLockStyle"/>
         <service android:name=".ScreenOffListenerService"/>
     </application>
 
