@@ -34,9 +34,8 @@ class ScreenOffListenerService: Service() {
         override fun onReceive(context: Context, intent: Intent) {
             if (intent.action.equals(Intent.ACTION_SCREEN_OFF)) {
                 val mLockIntent = Intent(context, LockScreenActivity::class.java)
-                mLockIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK and
-                        Intent.FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS)
                 startActivity(mLockIntent)
+                unregisterReceiver(this)
             }
         }
     }
