@@ -3,3 +3,6 @@
 - 自启动设置
 - 后台保活
 - 性能优化
+
+样式：
+![Alt text](http://ozrrotcjn.bkt.clouddn.com/ScreenLockDemo.png）
