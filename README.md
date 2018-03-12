@@ -5,4 +5,4 @@
 - 性能优化
 
 样式：
-![](TimeLock/ScreenLockDemo.png）
+![](/TimeLock/ScreenLockDemo.png）
