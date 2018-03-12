@@ -5,4 +5,4 @@
 - 性能优化
 
 样式：
-![Alt text](http://ozrrotcjn.bkt.clouddn.com/ScreenLockDemo.png）
+![](http://ozrrotcjn.bkt.clouddn.com/ScreenLockDemo.png）
