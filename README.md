@@ -5,4 +5,4 @@
 - 性能优化
 
 样式：
-![Image text](https://raw.githubusercontent.com/Haozhuxianer/TimeLock/master/ScreenLockDemo.png)
+![Image text](https://raw.githubusercontent.com/Haozhuxianer/TimeLock/master/ScreenLockDemo.png){:width="200"}
